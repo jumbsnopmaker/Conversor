@@ -1,4 +1,4 @@
-#Eu não tava cp, nada pra fazer, então fiz um programa que converte metros pra centimetros
+
 
 
 while True:
